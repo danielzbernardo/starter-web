@@ -4,7 +4,7 @@ alo
 
 ## how to 
 
-idk
+idk x2
 
 ### copyright
 
