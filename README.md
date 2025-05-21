@@ -4,4 +4,4 @@
 
 ##Purpose
 
-##How 2 contribute
+How 2 contribute
