@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    daniel		daniel@git.com	@itsdax
 
 # THANKS
 
